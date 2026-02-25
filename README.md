@@ -1,14 +1,23 @@
-<h1 align="center">Hi 👋, I'm Misa</h1>
-<p align="center">
-💻 Backend Engineer | Data-driven systems<br/>
-🚀 TypeScript · NestJS · PostgreSQL · Cloud<br/>
-📍 Santiago, Chile
-</p>
-<div align="center">
-  <a href="https://www.linkedin.com/in/misael-ocas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td valign="middle">
+      <h1>Hi 👋, I'm Misa</h1>
+      <p>
+        💻 <b>Backend Engineer</b> | Data-driven systems<br/>
+        🚀 TypeScript · NestJS · PostgreSQL · Cloud<br/>
+        📍 Santiago, Chile
+      </p>
+      <p>
+      <a href="https://www.linkedin.com/in/misael-ocas" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      </p>
+    </td>
+    <td width="220" align="right" valign="middle">
+      <img src="ellie_chibi.png" width="180"/>
+    </td>
+  </tr>
+</table>
 
 ## 🧠 About me
 
